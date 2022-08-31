@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/jaksia/jaksia/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jaksia/jaksia/output/snake.svg" alt="Snake animation" />
 
 ###
