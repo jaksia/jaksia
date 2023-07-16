@@ -1,0 +1,7 @@
+services:
+  homepage:
+    build: .
+    container_name: homepage
+    labels:
+      traefik.http.routers.homepage.rule: Host(`www.jaksia.xyz`) || Host(`jaksia.xyz`)
+      traefik.http.routers.homepage.tls.certresolver: le

@@ -1,11 +1,12 @@
 .git
 node_modules
-.estint*
+.eslint*
 .prettier*
 .vscode
 README.md
 Dockerfile*
-docker—compose.yml
+docker-compose.yml
 public
 .svelte-kit
 build
+
